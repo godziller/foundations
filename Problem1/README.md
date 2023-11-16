@@ -40,4 +40,24 @@ Write down the sets of students registered for each module.
 
 ## Question 11
 
+For the student database in Q10, write down the result of the following operations:
+- (i) $CS200 \cup CS201$
+
+- (ii) $MG201 \cap EE101$
+- (iii) $EC204 \cap CS200$
+- (iv) $CS200  \backslash CS201$
+- (v) $CS201 \backslash CS200$
+
+### Answer
+
+    (i) {Alice, Ronan,  Bob, Darragh, Frank, Oliver, Ted}
+    
+    (ii) {Carol}
+    
+    (iii) {}
+    
+    (iv) {Ronan} 
+    
+    (v) {Bob, Darragh, Frank, Oliver}
+
 ## Question 12
