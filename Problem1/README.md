@@ -98,4 +98,4 @@ Write down the following
     
     (vi) |P{apple}| = 2^1 = 2
 
-    (vii) |P{}| = 1, because this is the null set itself, so there is only 1.
+    (vii) |P{}| = 1, because this is the null set itself, so there is only 1. i.e. 2^0
