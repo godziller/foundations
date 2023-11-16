@@ -27,7 +27,7 @@ Write down the sets of students registered for each module.
 
     CS200 = {Alice, Ronan, Ted}
 
-    CS201 = {Alice, Bob, Darragh, Frank, Oliver, Ted}
+    CS201 = {Alice, Bob, Darragh, Frank, Ted}
 
     EC204 = {Bob, Eileen, Susan}
 
