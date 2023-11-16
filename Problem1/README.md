@@ -61,3 +61,41 @@ For the student database in Q10, write down the result of the following operatio
     (v) {Bob, Darragh, Frank, Oliver}
 
 ## Question 12
+
+```
+Write down the following
+    (i) P{a,b,c,d}
+    
+    (ii) P{apple}
+    
+    (iii) P{}
+    
+    (iv) P(CS200), where CS200 is the set you created in Q10
+    
+    (v) |P{a,b,c,d}|
+    
+    (vi) |P{apple}|
+    
+    (vii) |P{}|
+```
+### Answer
+
+    (i) P{a,b,c,d} = = {{}, {a}, {b}, {c}, {d}, 
+                        {a,b}, {a,c}, {a,d}, {b,c}, {b.d}, {c,d}
+                        {a,b,c}, {a,b,d}
+                        {b,c,d}
+                        {a,b,c,d}}
+
+    (ii) P{apple} = {{}, {apple}}
+
+    (iii) P{} = P{{}}
+
+    (iv) P(CS200) = {{}, {Alice}, {Ronan}, {Ted}
+                        {Alice, Ronan}, {Alice, Ted}, {Ronan, ted}
+                        {Alice, Ronan, Ted}}
+
+    (v) |P{a,b,c,d}| = 2^4 = 16 
+    
+    (vi) |P{apple}| = 2^1 = 2
+
+    (vii) |P{}| = 1, because this is the null set itself, so there is only 1.
